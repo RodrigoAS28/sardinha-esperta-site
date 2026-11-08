@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://sardinha.plutaovisionario.org/sitemap.xml
